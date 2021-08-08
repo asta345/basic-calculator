@@ -26,7 +26,7 @@ body{
 }
 .calculator span{
 	display: grid;
-	width: 70px;
+	width: 72px;
 	height:60px;
 	color: #fff;
 	background: #0c2835;

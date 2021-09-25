@@ -9,7 +9,7 @@ body{
 	justify-content: center;
         align-items: center;
          min-height: 100vh;
-	background: #091921;  
+	background:  #000000;
 }
 .calculator{
 	position: relative;
@@ -51,5 +51,5 @@ body{
 .calculator span.equal{
 	grid-column: span 2;
 	width: 144px;
-	background: crimson;
+	background:crimson;
 }
